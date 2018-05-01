@@ -1,0 +1,3 @@
+Naive Bayes - Bag of words
+By using this method, the results are correct if we use small/short sentence. But when we use long sentence, 
+it will mostly result a negative sentiment
